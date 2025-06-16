@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NODE_ENV === "development"
       ? "http://localhost:3000"
-      : process.env.DOMAIN || "https://ahmadrayhan.vercel.app",
+      : process.env.DOMAIN || "https://ahmadrayhan.site/",
   ),
   description: METADATA.description,
   keywords: METADATA.keyword,
