@@ -1,0 +1,263 @@
+{
+  "HomePage": {
+    "intro": "Hi, I'm Ahmad Rayhan",
+    "role" : "Website Developer | Business Enthusiast | Social-Humanity Researcher",
+    "location": "Based in Surabaya, Indonesia 🇮🇩",
+    "location_type": "Onsite, Remote, Hybrid",
+    "resume": "A final-year student in the Information Systems program at Airlangga University, with experience as an activist and leader in various campus organizations, Founder and CEO of (1) apparel business & (2) digital startup, and currently serving as a lecturer’s research assistant under a five-year freelance work contract for the development of the MIKA Education website at the East Java Autism Care Forum, a project funded by the Australian Direct Aid Program in 2023. Motivated to build a career in Human Resources Information Systems (HRIS), Research & Development, and IT Governance, supported by the integration of technical skills in information system-based product development with managerial capabilities in HR/IT. This interest is further reinforced through continuous self-development, such as earning a Full-stack Web Development certification under the MSIB Batch 6 program by Kemenristek in 2024, a Leadership and Management certification through LKMM by Kemenristek and LT by the departmental student association, and a Business Development & Management certification from the AYE 2024 program by DPKKA UNAIR.",
+    "skills": {
+      "title": "Skills",
+      "sub_title": "My professional skills."
+    },
+    "services": {
+      "title": "Open To Work",
+      "sub_title": "I am open to work offers as a permanent employee, and am ready to implement technical, managerial and leadership experience with a high learning spirit to contribute maximally in the world of work.",
+      "cta": {
+        "title": "Let's work together!",
+        "sub_title": "Let's connect and establish further communication. If you are interested, please contact me, through:",
+        "button": "Contact me"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "A long story about me.",
+    "resume": {
+      "paragraf_1": "Hello there! Thank you for visiting my personal website. I'm Ahmad Rayhan, An Information Systems student at Universitas Airlangga with over 4 years of experience in the field of technology and information systems. I have consistently demonstrated commitment and dedication in achieving accomplishments while developing competencies in information technology, entrepreneurship, and leadership.",
+
+      "paragraf_2": "Academic experience includes working as a freelancer on various website development projects for academic research purposes—both for lecturers and students—as well as for business owners. These projects have ranged from frontend tasks such as building landing pages and company profiles, to full-stack development including learning platforms, dashboards, and service-based sales systems. One of the major milestones in my academic and professional journey was my involvement in the development of MIKA Education, an autism education platform, where I served as a project assistant and lead developer. The platform was successfully funded by the Australian Direct Aid Program through the Australian Consulate-General in 2023. Additionally, I actively contribute as an international researcher at the East Java Autism Care Forum, combining technology, research, and direct social impact.",
+
+      "paragraf_3": "My interest in business development and management has led to the establishment of two legally registered businesses. The first is Entative Hub, a digital agency platform based on the gig economy model that connects student freelancers with digital service requests from business owners. The second is Roxoon Apparel, a clothing and merchandise business developed since 2023 using an outsourcing system and third-party production vendors, which has generated an annual revenue of up to IDR 100 million. Alongside the development of both businesses, my skills in digital marketing and graphic design have also grown—particularly in crafting business strategies, concepts, and visual identities such as logos/brandmarks, media content, infographics, and visual company profiles. These achievements are further supported by my selection as an awardee of the Airlangga Youth Entrepreneurship (AYE) 2024 program by the Directorate of Career Development, Entrepreneurship Incubation, and Alumni at Universitas Airlangga.",
+
+      "paragraf_4": "A balance of experience and leadership is demonstrated through various strategic roles in student organizations—from team leader during freshman orientation, field coordinator in community service programs, head of department-level benchmarking events, chief executive of a faculty-level village development program, to core management staff in the Student Executive Board (BEM) at the faculty level. In addition, I have earned both national and international recognitions, including a Silver Medal in the 2023 LIP3D program (Village Innovation Development Competition) for a green economy-based village digitalization initiative, selected as an awardee in the MSIB Batch 6 program as a Full-Stack Web Developer by the Ministry of Education and Culture in 2024, Best Presenter at ICAPH 2024—an international conference on inclusive product development, and selected participant in the International Student Mobility Program to Universiti Kebangsaan Malaysia (UKM) in 2024. Most notably, I was honored with a Silver Medal at the IPITEx 2024—the International Intellectual Property, Invention, Innovation and Technology Exhibition in Bangkok, hosted by Thailand’s National Research Council (NRCT).",
+
+      "paragraf_5": "With a combination of technical expertise, managerial capabilities, leadership qualities, and a strong passion for learning, I am fully prepared to contribute meaningfully to the professional world."
+    },
+    "career": {
+      "title": "Career & Experiences",
+      "sub_title": "My professional career journey.",
+      "careers": {
+        "career_0": {
+          "position": "Researcher & Website Developer",
+          "company": "Forum Peduli Autisme Jawa Timur (FPAJT) ",
+          "logo": "/images/careers/fpa.png",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Hybrid/Remote",
+          "type": "Contract",
+          "start_date": "2024-01",
+          "end_date": null,
+          "industry": "education",
+          "link": "https://mikaeducation.id/",
+          "responsibilities": {
+            "responsibility_1": "Worked as a researcher by collecting data, conducting literature reviews, and analyzing technical requirements for the development of the MIKA platform in collaboration with academics, practitioners, and autism therapists.",
+            "responsibility_2": "Developed the MIKA web platform with micro-credential learning content, including UI/UX design, architectural diagrams, database modeling, prototyping, and full-stack code implementation.",
+            "responsibility_3": "Presented protocol studies at national and international levels to promote MIKA platform products during exhibitions and workshop events."
+          }
+        },
+        "career_1": {
+          "position": "Founder & Chief Executive Officer",
+          "company": "Entative Hub",
+          "logo": "/images/careers/entative.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Freelancer",
+          "start_date": "2025-02",
+          "end_date": null,
+          "industry": "technology",
+          "link": "https://www.instagram.com/entative.media",
+          "responsibilities": {
+            "responsibility_1": "As founder and chief executive responsible for decision-making, vision-mission, external relations, resource management, internalization and strategic direction of the platform to community empowerment.",
+            "responsibility_2": "Operating as a student-only freelance platform that to date has completed over 20++ creative digital service requests from clients.",
+            "responsibility_3": "Offers services in more than 10++ digital agency products, covering the categories of creative production, visual & graphic design, to digital marketing."
+          }
+        },
+        "career_2": {
+          "position": "Owner & Chief Executive Officer",
+          "company": "Roxoon Apparel",
+          "logo": "/images/careers/roxoon-apparel.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Freelancer",
+          "start_date": "2024-03",
+          "end_date": null,
+          "industry": "apparel",
+          "link": "https://www.instagram.com/roxoonapparel",
+          "responsibilities": {
+            "responsibility_1": "Developed a custom convection and merchandise business based on customer requests for uniforms or needs from events, committees, organizations, institutions to companies.",
+            "responsibility_2": "Worked with approximately 3 vendors of clothing and merchandise manufacturers, 2 material suppliers, and digital promotion services to fulfill customer requests well.",
+            "responsibility_3": "Successfully completed more than 100 orders with an estimated turnover of 100 million/year."
+          }
+        },
+        "career_3": {
+          "position": "Full Stack Web Developer",
+          "company": "PT. Otak Kanan",
+          "logo": "/images/careers/otak-kanan.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Hybrid/Remote",
+          "type": "Internship",
+          "start_date": "2024-02",
+          "end_date": "2024-06",
+          "industry": "technology",
+          "link": "https://drive.google.com/file/d/1fLZ6hFnqzP5sYpONyQ8MVUbyjDNy6wBg/view",
+          "responsibilities": {
+            "responsibility_1": "Become a Project Manager (PM) in developing a dashboard & one stop shop website platform.",
+            "responsibility_2": "Able to develop website-based applications with payment gateways with Midtrans integration.",
+            "responsibility_3": "Able to learn full stack website development with 50 other students from various institutions."
+          }
+        },
+        "career_4": {
+          "position": "Business Management Intern",
+          "company": "Rasyida Alam – Airlangga Youth Entrepreneurship 2024",
+          "logo": "/images/careers/rasyida-alam.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Internship",
+          "start_date": "2024-05",
+          "end_date": "2024-06",
+          "industry": "fashion",
+          "link": "https://www.instagram.com/rasyida_alam",
+          "responsibilities": {
+            "responsibility_1": "Development of business management, production, finance and marketing tasks."
+          }
+        },
+        "career_5": {
+          "position": "Coordinator Minister of Social, Environmental & Strategic Study",
+          "company": "Badan Eksekutif Mahasiswa FST 2024 UNAIR",
+          "logo": "/images/careers/bem-fst.png",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Volunteer",
+          "start_date": "2024-02",
+          "end_date": "2025-02",
+          "industry": "organization",
+          "link": "https://www.instagram.com/bemfst_unair",
+          "responsibilities": {
+            "responsibility_1": "As the core team, precisely the coordinator of two departments out of 10 departments in BEM FST UNAIR, namely: 1) Social-Environmental Department; 2) Department of Strategic Studies and Action.",
+            "responsibility_2": "Responsible for ensuring the performance of the social environment department and strategic action studies department by supervising around 30 work programs or activity agendas.",
+            "responsibility_3": "Initiated critical, strategic, and participatory faculty student advocacy in response to various dynamics of regional and national issues."
+          }
+        },
+        "career_6": {
+          "position": "Chairman of Organizing Committee",
+          "company": "Bina Desa FST 2023",
+          "logo": "/images/careers/bina-desa.png",
+          "location": "Mojokerto, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Volunteer",
+          "start_date": "2023-03",
+          "end_date": "2023-07",
+          "industry": "social",
+          "link": "https://www.instagram.com/binadesa_fst",
+          "responsibilities": {
+            "responsibility_1": "Fully responsible for leading and coordinating a committee of 60 students.",
+            "responsibility_2": "Development of activities with the direction of sustainable movement as the realization of Independent Villages, in the form of accelerating economic development and public governance systems, training in maggot cultivation, empowering BUMDes, making village tourism gates, providing education for elementary and MI children."
+          }
+        },
+        "career_7": {
+          "position": "Field Coordinator of Organizing Committee",
+          "company": "Pengabdian Masyarakat HIMSI 2022",
+          "logo": "/images/careers/himsi.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Onsite",
+          "type": "Volunteer",
+          "start_date": "2022-05",
+          "end_date": "2022-07",
+          "industry": "education",
+          "link": "https://www.instagram.com/pengmas_himsi",
+          "responsibilities": {
+            "responsibility_1": "Teaching design and writing technology to elementary school children.",
+            "responsibility_2": "Participated and responsible for the continuity of the activity.",
+            "responsibility_3": "Coordinate 3 divisions and ensure that they can progress well."
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Education",
+      "sub_title": "My educational journey.",
+      "school": "Airlangga University",
+      "major": "Information Systems, (S.Kom)",
+      "logo": "/images/education/uner.png",
+      "location": "Surabaya, Indonesia 🇮🇩",
+      "degree": "Bachelor's degree",
+      "start_year": 2021,
+      "end_year": 2025,
+      "link": "https://unair.ac.id/"
+    },
+    "resume_download_button": "Download Resume",
+    "portfolio_download_button": "Download Portfolio"
+  },
+  "AchievementsPage": {
+    "title": "Achievements",
+    "description": "A collection of certificates and badges that I have earned throughout my professional journey.",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available.",
+    "show_credential": "Show Credentials"
+  },
+  "ProjectsPage": {
+    "title": "Projects",
+    "description": "Several projects that I have worked on, both websites, businesses and other activities.",
+    "view_project": "View Project",
+    "tech_stack": "Tech Stack",
+    "back_button": "Back",
+    "source_code_text": "Source Code",
+    "live_demo_text": "Live/Documentation",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available."
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Let`s get in touch",
+    "social_media": {
+      "title": "Find me on social media",
+      "gmail": {
+        "title": "Stay in Touch",
+        "description": "Reach out via email for any inquiries or collaborations."
+      },
+      "instagram": {
+        "title": "Follow My Journey",
+        "description": "Stay updated with my latest posts and stories on Instagram."
+      },
+      "linkedin": {
+        "title": "Let's Connect",
+        "description": "Connect for collaboration or explore my professional experience."
+      },
+      "tiktok": {
+        "title": "Join the Fun",
+        "description": "Follow me on TikTok for entertaining and engaging content."
+      },
+      "github": {
+        "title": "Explore the Code",
+        "description": "Explore the source code for all my projects on GitHub."
+      }
+    },
+    "form": {
+      "title": "Or send me a message",
+      "input_name": "Name",
+      "input_email": "Email",
+      "input_message": "Message",
+      "button": "Send Your Messages"
+    }
+  },
+  "Footer": {
+    "hire": "Hire me.",
+    "copyright_1": "Copyright © ",
+    "copyright_2": "Ahmad Rayhan. All rights reserved."
+  },
+  "LocaleSwitcher": {
+    "en": "🇺🇸",
+    "id": "🇮🇩",
+    "label": "Language"
+  },
+  "Navigation": {
+    "Home": "Home",
+    "About": "About",
+    "Achievements": "Achievements",
+    "Projects": "Projects",
+    "Contact": "Contact"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "button": "Take me home"
+  }
+}

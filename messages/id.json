@@ -1,0 +1,263 @@
+{
+  "HomePage": {
+    "intro": "Hai, saya Ahmad Rayhan",
+    "role" : "Website Developer | Business Enthusiast | Social-Humanity Researcher",
+    "location": "Berasal dari Surabaya, Indonesia 🇮🇩",
+    "location_type": "Di lokasi, Remote, Hybrid",
+    "resume": "Mahasiswa tingkat akhir pada program studi Sistem Informasi Universitas Airlangga, dengan pengalaman sebagai aktivis dan pemimpin di berbagai organisasi kampus, pendiri dan CEO dari (1) bisnis apparel dan (2) startup digital, serta saat ini aktif menjadi asisten peneliti dosen dengan sistem kontrak kerja selama 5 tahun sebagai pekerja lepas dalam pengembangan website MIKA Education di Forum Peduli Autisme Jawa Timur, sebuah proyek yang didanai oleh Australian Direct Aid Program pada tahun 2023. Memiliki ketertarikan terhadap jenjang karier di bidang Human Resources Information System (HRIS), Research & Development, hingga IT Governance, didukung oleh integrasi keterampilan teknis dalam pengembangan produk berbasis sistem informasi dengan kemampuan manajerial di bidang SDM/IT. Minat ini diperkuat melalui peningkatan kompetensi diri, seperti memperoleh sertifikasi Full-stack Web Development pada program MSIB Batch 6 oleh Kemenristek 2024, Sertifikasi Kepemimpinan dan Manajemen pada program LKMM oleh Kemenristek & LT oleh himpunan jurusan, hingga Sertifikasi Pengembangan & Manajemen Bisnis pada program AYE 2024 oleh DPKKA UNAIR.",
+    "skills": {
+      "title": "Keahlian",
+      "sub_title": "Keahlian profesional saya."
+    },
+    "services": {
+      "title": "Layanan",
+      "sub_title": "Saya terbuka untuk tawaran kerja sebagai pegawai tetap, dan siap mengimplementasikan pengalaman teknis, manajerial dan kepemimpinan dengan semangat belajar yang tinggi untuk berkontribusi secara maksimal dalam dunia kerja.",
+      "cta": {
+        "title": "Mari bekerja sama!",
+        "sub_title": "Mari terhubung dan menjalin komunikasi lebih lanjut. Jika Anda tertarik, dapat menghubungi saya, melalui:",
+        "button": "Hubungi saya"
+      }
+    }
+  },
+  "AboutPage": {
+    "title": "Tentang",
+    "description": "Mengenal lebih dekat, Cerita Panjang tentang saya.",
+    "resume": {
+      "paragraf_1": "Mahasiswa Program Studi Sistem Informasi di Universitas Airlangga dengan pengalaman lebih dari 4 tahun di bidang teknologi dan sistem informasi. Saya telah berhasil membuktikan komitmen dan konsistensi dalam membangun prestasi sekaligus mengembangkan kompetensi di bidang teknologi informasi, kewirausahaan, dan kepemimpinan.",
+
+      "paragraf_2": "Pengalaman selama masa studi mencakup keterlibatan sebagai freelancer dalam berbagai proyek pengembangan website untuk kebutuhan penelitian dosen maupun mahasiswa, serta untuk pemilik bisnis. Proyek yang dikerjakan bervariasi, mulai dari frontend seperti landing page dan profil perusahaan, hingga full-stack development seperti platform pembelajaran, dashboard, hingga layanan penjualan. Salah satu tonggak penting dalam perjalanan akademik dan profesional adalah keikutsertaan dalam proyek pengembangan platform edukasi autisme bernama MIKA Education, di mana terlibat sebagai asisten proyek dosen dan developer utama. Platform ini berhasil lolos pendanaan dari Australian Direct Aid Program melalui Konsulat Jenderal Australia pada tahun 2023. Selain itu, juga aktif sebagai international researcher di Forum Peduli Autisme Jawa Timur, yang menggabungkan aspek teknologi, riset, dan kontribusi sosial secara langsung.",
+
+      "paragraf_3": "Ketertarikan terhadap pengembangan dan manajemen bisnis juga menjadi salah satu faktor utama dalam keterbentukan 2 bisnis-legal yang dimiliki. Pengembangan sebuah startup bernama Entative Hub, sebuah platform agensi digital berbasis gig economy untuk menghubungkan mahasiswa sebagai freelancer dengan pesanan produk digital dari pelaku bisnis. Selain itu, melalui brand Roxoon Apparel yang dikembangkan sejak 2023, berhasil membangun bisnis konveksi berbasis outsourcing dengan omzet tahunan mencapai Rp100 juta. Bersamaan dengan pengembangan dua bisnis tersebut, kemampuan pemasaran digital dan desain grafis yang saya miliki juga turut berkembang, terutama dalam pembuatan strategi, konsep dan identitas bisnis, seperti logo/brandmarking, media visual dan infografis, hingga company profile visual. Pengalaman tersebut didukung oleh penghargaan yang didapatkan sebagai awardee pada program Airlangga Youth Entreprenurship (AYE) 2024 oleh Direktorat Pengembangan Karir, Inkubasi Kewirausahaan dan Alumni di Universitas Airlangga.",
+
+      "paragraf_4": "Keseimbangan antara pengalaman dan kepemimpinan juga ditunjukkan melalui berbagai peran strategis di organisasi, mulai dari ketua regu mahasiswa baru, Koordinator Lapangan pengabdian masyarakat dan ketua pelaksana studi banding tingkat departemen, Ketua Pelaksana program pembinaan desa tingkat Fakultas, hingga Pengurus Inti pada Badan Eksekutif Mahasiswa tingkat Fakultas. Selain itu, saya memiliki capaian prestasi di bidang akademik dan non-akademik dalam tingkat nasional higgga internasional, mulai dari Medali Perak di program LIP3D #2 2023 tingkat nasional dengan inovasi berupa digitalisasi desa mandiri berbasis green economy, kemudian mendapatkan awardee dan lolos pada program MSIB Batch 6 sebagai Full-Stack Web Developer oleh Kemendikbudristek RI tahun 2024, menjadi Best Presenter di ICAPH 2024 sebuah konferensi internasional untuk membahas protokol pengembangan produk inklusi, menjadi mahasiswa yang berpartisipasi dalam International Student Mobility Program ke Universitas Kebangsaan Malaysia (UKM) 2024, hingga puncaknya mendapatkan Mendali Perak pada Pameran Kekayaan Intelektual, Penemuan, Inovasi, dan Teknologi Internasional di Bangkok (IPITEx) 2024 oleh Dewan Riset Nasional Thailand (NRCT).",
+            
+      "paragraf_5": "Dengan kombinasi antara keahlian teknis, manajerial, jiwa kepemimpinan, dan semangat belajar yang tinggi, saya siap memberikan kontribusi terbaik dalam dunia profesional."
+    },
+    "career": {
+      "title": "Karier & Pengalaman",
+      "sub_title": "Perjalanan karier profesional saya.",
+      "careers": {
+        "career_0": {
+          "position": "Peneliti & Pengembang Website",
+          "company": "Forum Peduli Autisme Jawa Timur (FPAJT) ",
+          "logo": "/images/careers/fpa.png",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Hybrid/Remote",
+          "type": "Kontrak",
+          "start_date": "2024-01",
+          "end_date": null,
+          "industry": "pendidikan",
+          "link": "https://mikaeducation.id/",
+          "responsibilities": {
+            "responsibility_1": "Bekerja sebagai peneliti dengan mengumpulkan data, melakukan tinjauan pustaka, dan menganalisis kebutuhan teknis untuk pengembangan platform MIKA bersama akademisi, praktisi, dan terapis autisme.",
+            "responsibility_2": "Mengembangkan platform web MIKA dengan konten pembelajaran micro-credential, termasuk desain UI/UX, diagram arsitektur, pemodelan database, pembuatan prototipe, dan implementasi kode full-stack.",
+            "responsibility_3": "Mempresentasikan studi protokol di tingkat nasional dan internasional untuk mempromosikan produk platform MIKA pada acara pameran dan lokakarya."
+          }
+        },
+        "career_1": {
+          "position": "Pendiri & Kepala Eksekutif",
+          "company": "Entative Hub",
+          "logo": "/images/careers/entative.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Pekerja Lepas",
+          "start_date": "2025-02",
+          "end_date": null,
+          "industry": "teknologi",
+          "link": "https://www.instagram.com/entative.media",
+          "responsibilities": {
+            "responsibility_1": "Sebagai pendiri dan pimpinan eksekutif yang bertanggung jawab atas pengambilan keputusan, visi-misi, hubungan eksternal, manajemen sumber daya, internalisasi dan arah strategis platform untuk pemberdayaan komunitas.",
+            "responsibility_2": "Mengoperasikan sebagai platform freelance khusus mahasiswa yang hingga kini telah menyelesaikan lebih dari 20++ permintaan layanan digital kreatif dari klien.",
+            "responsibility_3": "Menawarkan layanan dalam lebih dari 10++ produk agensi digital, mencakup kategori produksi kreatif, desain visual & grafis, hingga digital marketing."
+          }
+        },
+        "career_2": {
+          "position": "Pemilik & Kepala Eksekutif",
+          "company": "Roxoon Apparel",
+          "logo": "/images/careers/roxoon-apparel.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Pekerja Lepas",
+          "start_date": "2024-03",
+          "end_date": null,
+          "industry": "pakaian jadi",
+          "link": "https://www.instagram.com/roxoonapparel",
+          "responsibilities": {
+            "responsibility_1": "Menjadi Project Manager (PM) dalam pengembangan platform website dashboard & one stop shop.",
+            "responsibility_2": "Mampu mengembangkan aplikasi berbasis website dengan integrasi payment gateway Midtrans.",
+            "responsibility_3": "Mampu mempelajari pengembangan website full stack bersama 50 mahasiswa lainnya dari berbagai institusi."
+          }
+        },
+        "career_3": {
+          "position": "Pengembang Website Full-Stack",
+          "company": "PT. Otak Kanan",
+          "logo": "/images/careers/otak-kanan.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Hybrid/Remote",
+          "type": "Magang",
+          "start_date": "2024-02",
+          "end_date": "2024-06",
+          "industry": "teknologi",
+          "link": "https://drive.google.com/file/d/1fLZ6hFnqzP5sYpONyQ8MVUbyjDNy6wBg/view",
+          "responsibilities": {
+            "responsibility_1": "Menjadi Project Manager (PM) dalam pengembangan platform website dashboard & one stop shop.",
+            "responsibility_2": "Mampu mengembangkan aplikasi berbasis website dengan integrasi payment gateway Midtrans.",
+            "responsibility_3": "Mampu mempelajari pengembangan website full stack bersama 50 mahasiswa lainnya dari berbagai institusi."
+          }
+        },
+        "career_4": {
+          "position": "Manajemen & Pengembangan Bisnis",
+          "company": "Rasyida Alam – Airlangga Youth Entrepreneurship 2024",
+          "logo": "/images/careers/rasyida-alam.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Magang",
+          "start_date": "2024-05",
+          "end_date": "2024-06",
+          "industry": "pakaian",
+          "link": "https://www.instagram.com/rasyida_alam",
+          "responsibilities": {
+            "responsibility_1": "Pengembangan tugas manajemen bisnis, produksi, keuangan, dan pemasaran."
+          }
+        },
+        "career_5": {
+          "position": "Koordinator Departemen Sosial, Lingkungan, Aksi & Kajian Strategis",
+          "company": "Badan Eksekutif Mahasiswa FST 2024 UNAIR",
+          "logo": "/images/careers/bem-fst.png",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Sukarelawan",
+          "start_date": "2024-02",
+          "end_date": "2025-02",
+          "industry": "organisasi",
+          "link": "https://www.instagram.com/bemfst_unair",
+          "responsibilities": {
+            "responsibility_1": "Sebagai tim inti, tepatnya koordinator dari dua departemen dari 10 departemen di BEM FST UNAIR, yaitu: 1) Departemen Sosial-Lingkungan; 2) Departemen Kajian Strategis dan Aksi.",
+            "responsibility_2": "Bertanggung jawab atas kinerja departemen sosial lingkungan dan departemen kajian aksi strategis dengan mengawasi sekitar 30 program kerja atau agenda kegiatan.",
+            "responsibility_3": "Menginisiasi advokasi mahasiswa fakultas yang kritis, strategis, dan partisipatif dalam merespons berbagai dinamika isu daerah dan nasional."
+          }
+        },
+        "career_6": {
+          "position": "Ketua Pelaksana",
+          "company": "Bina Desa FST 2023",
+          "logo": "/images/careers/bina-desa.png",
+          "location": "Mojokerto, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Sukarelawan",
+          "start_date": "2023-03",
+          "end_date": "2023-07",
+          "industry": "sosial",
+          "link": "https://www.instagram.com/binadesa_fst",
+          "responsibilities": {
+            "responsibility_1": "Bertanggung jawab penuh untuk memimpin dan mengoordinasikan panitia berjumlah 60 mahasiswa.",
+            "responsibility_2": "Pengembangan kegiatan dengan arahan gerakan berkelanjutan sebagai wujud Desa Mandiri, dalam bentuk percepatan pembangunan ekonomi dan sistem tata kelola masyarakat, pelatihan budidaya maggot, pemberdayaan BUMDes, pembuatan gapura wisata desa, serta pemberian edukasi untuk anak SD dan MI."
+          }
+        },
+        "career_7": {
+          "position": "Field Coordinator of Organizing Committee",
+          "company": "Pengabdian Masyarakat HIMSI 2022",
+          "logo": "/images/careers/himsi.jpg",
+          "location": "Surabaya, Indonesia 🇮🇩",
+          "location_type": "Di Tempat",
+          "type": "Sukarelawan",
+          "start_date": "2022-05",
+          "end_date": "2022-07",
+          "industry": "pendidikan",
+          "link": "https://www.instagram.com/pengmas_himsi",
+          "responsibilities": {
+            "responsibility_1": "Mengajar teknologi desain dan penulisan kepada anak-anak sekolah dasar.",
+            "responsibility_2": "Berpartisipasi dan bertanggung jawab atas kelangsungan kegiatan.",
+            "responsibility_3": "Mengoordinasikan 3 divisi dan memastikan semuanya berjalan baik."
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Pendidikan",
+      "sub_title": "Perjalanan pendidikan saya.",
+      "school": "Universitas Airlangga",
+      "major": "Sistem Informasi, (S.Kom)",
+      "logo": "/images/education/uner.png",
+      "location": "Surabaya, Indonesia 🇮🇩",
+      "degree": "Gelar Sarjana",
+      "start_year": 2021,
+      "end_year": 2025,
+      "link": "https://unair.ac.id/"
+    },
+    "resume_download_button": "Unduh Resume",
+    "portfolio_download_button": "Unduh Portofolio"
+  },
+  "AchievementsPage": {
+    "title": "Prestasi",
+    "description": "Koleksi sertifikat dan lencana yang saya dapatkan sepanjang perjalanan profesional saya.",
+    "error": "Terjadi kesalahan di server.",
+    "no_data": "Tidak ada data yang tersedia",
+    "show_credential": "Tampilkan Kredensial"
+  },
+  "ProjectsPage": {
+    "title": "Proyek",
+    "description": "Beberapa proyek yang telah saya kerjakan, baik website, bisnis dan kegiatan lainnya.",
+    "view_project": "Lihat Proyek",
+    "tech_stack": "Tumpukan Teknologi",
+    "back_button": "Kembali",
+    "source_code_text": "Kode Sumber",
+    "live_demo_text": "Periksa/Dokumentasi",
+    "error": "Terjadi kesalahan di server.",
+    "no_data": "Tidak ada data yang tersedia"
+  },
+  "ContactPage": {
+    "title": "Kontak",
+    "description": "Mari kita berhubungan",
+    "social_media": {
+      "title": "Temukan saya di media sosial",
+      "gmail": {
+        "title": "Tetap Berhubungan",
+        "description": "Hubungi melalui email untuk pertanyaan atau kolaborasi."
+      },
+      "instagram": {
+        "title": "Ikuti Perjalanan Saya",
+        "description": "Tetap diperbarui dengan posting dan cerita terbaru saya di Instagram."
+      },
+      "linkedin": {
+        "title": "Mari Terhubung",
+        "description": "Terhubung untuk kolaborasi atau jelajahi pengalaman profesional saya."
+      },
+      "tiktok": {
+        "title": "Bergabunglah dalam Keseruan",
+        "description": "Ikuti saya di TikTok untuk konten yang menghibur dan menarik."
+      },
+      "github": {
+        "title": "Jelajahi Kode",
+        "description": "Jelajahi kode sumber untuk semua proyek saya di GitHub."
+      }
+    },
+    "form": {
+      "title": "Atau kirim pesan kepada saya",
+      "input_name": "Nama",
+      "input_email": "Email",
+      "input_message": "Pesan",
+      "button": "Kirim Pesan Anda"
+    }
+  },
+  "Footer": {
+    "hire": "Hire me.",
+    "copyright_1": "Hak Cipta © ",
+    "copyright_2": "Ahmad Rayhan. Semua data dan hak dilindungi."
+  },
+  "LocaleSwitcher": {
+    "en": "🇺🇸",
+    "id": "🇮🇩",
+    "label": "Bahasa"
+  },
+  "Navigation": {
+    "Home": "Beranda",
+    "About": "Tentang",
+    "Achievements": "Prestasi",
+    "Projects": "Proyek",
+    "Contact": "Kontak"
+  },
+  "NotFoundPage": {
+    "title": "Halaman tidak ditemukan",
+    "button": "Kembali ke beranda"
+  }
+}
