@@ -6,7 +6,6 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 
-import ChatButton from "../../../modules/chat/components/ChatButton";
 
 import Sidebar from "./sidebar";
 
