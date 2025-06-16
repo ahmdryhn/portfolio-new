@@ -58,7 +58,7 @@ export const SOCIAL_MEDIA: SocialMediaProps[] = [
     title: "Join the Fun",
     description: "Follow me on TikTok for entertaining and engaging content.",
     name: "tiktok",
-    href: "https://github.com/ahmdryhn",
+    href: "https://www.tiktok.com/@.ahmdryhn",
     icon: <TiktokIcon size={iconSize} />,
     backgroundIcon: <TiktokIcon size={backgroundIconSize} />,
     textColor: "text-neutral-400",
