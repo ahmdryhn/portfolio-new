@@ -1,6 +1,5 @@
 import NextTopLoader from "nextjs-toploader";
 import Script from "next/script";
-import { getServerSession } from "next-auth";
 import { Analytics } from "@vercel/analytics/react";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
@@ -44,7 +43,6 @@ const RootLayout = async ({
   params: { locale: string };
 }>) => {
   const messages = await getMessages();
-  const session = await getServerSession();
 
   return (
     <html lang={locale} suppressHydrationWarning={true}>
@@ -66,11 +64,9 @@ const RootLayout = async ({
           shadow="0 0 10px #05b6d3,0 0 5px #45c6c0"
         />
         <NextIntlClientProvider messages={messages}>
-          <NextAuthProvider session={session}>
-            <ThemeProviderContext>
-              <Layouts>{children}</Layouts>
-            </ThemeProviderContext>
-          </NextAuthProvider>
+          <ThemeProviderContext>
+            <Layouts>{children}</Layouts>
+          </ThemeProviderContext>
         </NextIntlClientProvider>
         <Analytics />
       </body>
